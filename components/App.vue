@@ -4,7 +4,7 @@
 
     <HeroBanner />
 
-    <! TopSections >
+    < TopSections >
     <TopSections />
 
     <CategorySection
